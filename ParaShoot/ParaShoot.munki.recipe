@@ -109,6 +109,15 @@
 			<string>Versioner</string>
 		</dict>
 		<dict>
+		    <key>Processor</key>
+		    <string>com.github.homebysix.VersionSplitter/VersionSplitter</string>
+		    <key>Arguments</key>
+		    <dict>
+		    	<key>split_on</key>
+		    	<string>&#10;</string>
+		    </dict>
+		</dict>
+		<dict>
 			<key>Arguments</key>
 			<dict>
 				<key>additional_pkginfo</key>
