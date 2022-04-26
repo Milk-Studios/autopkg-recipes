@@ -89,7 +89,6 @@
 				<key>installs_item_paths</key>
 				<array>
 					<string>/Applications/ParaShoot.app</string>
-					<string>/Library/Application Support/ParaShoot/fake_format</string>
 				</array>
 			</dict>
 			<key>Processor</key>
