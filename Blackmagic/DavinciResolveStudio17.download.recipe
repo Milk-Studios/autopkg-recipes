@@ -23,7 +23,7 @@ Notably, REG_STATE and REG_COUNTRY must contain sane values:
     <key>Input</key>
     <dict>
         <key>PRODUCT_NAME_PATTERN</key>
-        <string>^DaVinci Resolve Studio(?P&lt;version&gt;17(\.\d+)*)( Update)*$</string>
+        <string>^DaVinci Resolve Studio (?P&lt;version&gt;17(\.\d+)*)( Update)*$</string>
         <key>NAME</key>
         <string>DaVinciResolveStudio17</string>
         <key>REG_FIRSTNAME</key>
