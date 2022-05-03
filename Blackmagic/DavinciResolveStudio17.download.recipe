@@ -17,7 +17,7 @@ Notably, REG_STATE and REG_COUNTRY must contain sane values:
 - REG_STATE is a proper name, i.e. 'Maryland'.
 </string>
     <key>Identifier</key>
-    <string>com.github.milk-studios.download.DaVinciResolve17</string>
+    <string>com.github.milk-studios.download.DaVinciResolveStudio17</string>
     <key>ParentRecipe</key>
     <string>com.github.timsutton.download.davinciresolve14</string>
     <key>Input</key>
